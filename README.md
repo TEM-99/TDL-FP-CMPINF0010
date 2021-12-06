@@ -11,7 +11,7 @@ Dan Sawyer- dks42@pitt.edu
 Ben Mullin- brm208@pitt.edu
 
 ### Data Sets Used
-Ben-https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores/resource/626357fa-c95d-465f-9a02-3121655b2b78
+Ben-https://data.wprdc.org/dataset/690409e3-27e2-47a1-beed-fd600097f951/resource/626357fa-c95d-465f-9a02-3121655b2b78/download/data-conveniencesupermarkets.csv
 <br/>
 Dan-https://data.wprdc.org/dataset/allegheny-county-primary-care-facilities
 <br/>
