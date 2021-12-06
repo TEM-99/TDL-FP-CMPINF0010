@@ -22,4 +22,4 @@ Population(Toby)-https://www.city-data.com/zipmaps/Pittsburgh-Pennsylvania.html
 
 ### Abstract
 
-The best zipcode in Pittsburgh is ... by ratioing each contributors collective metrics adding the total scores and dividing by population we found that ... has the most resources
+The best zipcode in Pittsburgh is 15224 by ratioing each contributors collective metrics adding the total scores and dividing by population we found that 15224 has the most resources
